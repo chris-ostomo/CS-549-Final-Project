@@ -1,7 +1,7 @@
 # CS-549-Final-Project
 ## Machine Learning Project.
 
-###Timeline:
+### Timeline:
 1. Project Proposal Report (10%) - Due Friday, March 28
    * A 2-3 page document outlining:
      - Problem statement and motivation (2%)
