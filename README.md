@@ -1,4 +1,5 @@
 # CS-549-Final-Project
+# AI vs Real Image Detector
 
 ## Dependencies
 
@@ -46,4 +47,6 @@ Afterwards, setup your local interpreter with python 3.10, and ensure the previo
 ## Run the Program
 
 After all dependencies are downloaded, the program is ready to run!
+
+After training the model, the program will save the model as `discriminator_model.h5`. Our saved model is provided in the repository in case the training model may be too expensive to run.
 
