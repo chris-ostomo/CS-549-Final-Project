@@ -1,4 +1,3 @@
-# CS-549-Final-Project
 # AI vs Real Image Detector
 
 ## Dependencies
