@@ -23,6 +23,8 @@ Training image CSV --> `train.csv`
 
 Testing image CSV --> `test.csv`
 
+#### Ensure all files are in the same directory
+
 ### Required Packages
 
 To install necessary dependencies, input this command into your local terminal:
