@@ -1,24 +1,34 @@
 # CS-549-Final-Project
-## Machine Learning Project.
 
-### Timeline:
-1. Project Proposal Report (10%) - Due Friday, March 28
-   * A 2-3 page document outlining:
-     - Problem statement and motivation (2%)
-     - Dataset description (existing dataset or collection plan) (2%)
-     - Planned methodology (ML models, techniques) (2%)
-     - Evaluation metrics and expected outcomes (2%)
-     - Work distribution among group members (2%)
-   * Submission: Upload to Canvas
-2. Code & Model Submission (5%) – Due along with the final report (Friday, May 9)
-   * All code should be well-documented and reproducible.
-   * Include training (2%), testing (2%), and evaluation scripts (1%).
-   * Preferred submission: GitHub repository link, or a ZIP file on Canvas
-3. Final Report (15%) – Due Friday, May 9
-   * A 5-8 page report (IEEE format recommended) including:
-     - Introduction and research problem (1%)
-     - Related work (brief literature review) (2%)
-     - Methodology and technical details (5%)
-     - Experimental results and analysis (4%)
-     - Conclusion and future work (2%)
-   * Submission: Upload to Canvas
+## Dependencies
+
+### Datasets to Download
+
+The dataset for this program is found here:
+https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset/data
+
+#### What to Download
+
+Under Data Explorer, download the following folders:
+
+Training image dataset --> `train_data`
+
+Testing image dataset --> `test_data_v2`
+
+### Required Packages
+
+To install necessary dependencies, input this command into your local terminal:
+
+    pip install numpy tensorflow matplotlib pillow kagglehub[pandas-datasets]
+
+### Python Requirement
+
+Ensure your local python interpreter is version 3.10 by inputting this command into your local terminal:
+
+    python -v
+
+If your python version is not the correct version, certain dependencies may not function correctly. To 
+modify your version, download python 3.10 here: https://www.python.org/downloads/release/python-3100/
+
+Afterwards, setup your local interpreter with python 3.10, and ensure the previous dependencies are installed.
+
