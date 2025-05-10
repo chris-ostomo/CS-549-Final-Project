@@ -15,6 +15,14 @@ Training image dataset --> `train_data`
 
 Testing image dataset --> `test_data_v2`
 
+Under this repository, download the following files:
+
+Project notebook --> `AI_vs_Real_Images.ipynb`
+
+Training image CSV --> `train.csv`
+
+Testing image CSV --> `test.csv`
+
 ### Required Packages
 
 To install necessary dependencies, input this command into your local terminal:
@@ -31,4 +39,9 @@ If your python version is not the correct version, certain dependencies may not 
 modify your version, download python 3.10 here: https://www.python.org/downloads/release/python-3100/
 
 Afterwards, setup your local interpreter with python 3.10, and ensure the previous dependencies are installed.
+
+
+## Run the Program
+
+After all dependencies are downloaded, the program is ready to run!
 
